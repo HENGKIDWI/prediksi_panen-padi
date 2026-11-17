@@ -60,6 +60,6 @@ Mencakup logika inti (termasuk uji kebocoran data pada peramalan rekursif) dan a
 - Seleksi parameter memakai validasi di ujung data latih; data uji tidak disentuh.
 - Kolom target bernama `Produksi (Ha)` mengikuti file data; satuannya diasumsikan **ton**. 1 ton = 10 kuintal.
 
-## Deploy (opsional)
+## Deploy
 
-Unggah folder ini ke GitHub, lalu deploy di [Streamlit Community Cloud](https://share.streamlit.io) dengan berkas utama `app.py`.
+https://prediksipanen-padigit-knhvctueutbgzeztkomccs.streamlit.app/
